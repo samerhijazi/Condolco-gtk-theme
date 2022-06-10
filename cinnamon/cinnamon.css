@@ -308,7 +308,7 @@ StScrollBar StButton#hhandle:active {
   border: 1px solid #d0d0d0;
   border-radius: 3px;
   padding: 5px 12px;
-  background-color: #a0c0fb;
+  background-color: #fbeaa0;
   color: #4a4a4a;
   font-size: 1em;
   font-weight: normal;
@@ -874,7 +874,7 @@ StScrollBar StButton#hhandle:active {
 
 .calendar {
   spacing-rows: 0;
-  spacing-columns: 1;
+  spacing-columns: 0;
 }
 
 .calendar-main-box {
@@ -1111,7 +1111,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 .calendar-day-event-dot-box {
-  margin-top: 22px;
+  margin-top: 1.7em;
   max-rows: 1;
 }
 
